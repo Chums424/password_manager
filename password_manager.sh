@@ -8,7 +8,7 @@ read -p "ユーザー名を入力してください：" username
 
 read -s -p "パスワードを入力してください：" password
 
-echo
+echo "hello"
 
 echo "Thank you!"
 
